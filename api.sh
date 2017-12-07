@@ -1,3 +1,3 @@
 do_it() {
-  echo 'submodule version 2 with fix'
+  echo 'submodule version 3'
 }
